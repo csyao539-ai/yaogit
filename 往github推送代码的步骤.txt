@@ -1,0 +1,13 @@
+# 初始化 git（关键命令）
+git init
+
+
+
+#1. 保存文件后加入暂存
+git add README.md
+#2. 提交本地版本
+git commit -m "自定义修改备注"
+#3. 一键推送到GitHub
+git push
+
+
