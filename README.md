@@ -1,5 +1,6 @@
 # yaogit
 # admin
+# admin
 
 ## Nmap 扫描脚本
 
@@ -33,4 +34,5 @@ nmap -O "$TARGET" 2>/dev/null || echo "   (需要 root 权限)"
 
 echo ""
 echo "=== 扫描完成 ==="
+222222222222222222222
 ```
